@@ -1,5 +1,5 @@
 a = 10000
 b = 20
 
-c = a+b
+c = a*b
 print(c)
